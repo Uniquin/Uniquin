@@ -16,5 +16,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
-![image](https://user-images.githubusercontent.com/116876077/199897890-67226b59-5cb9-4688-9b0f-7dafc45fca78.png)
 
+![giphy](https://user-images.githubusercontent.com/116876077/199898406-667d66f3-430e-4dba-8f03-2099af1f4825.gif)
