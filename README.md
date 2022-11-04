@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Uniquin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on 78963782782782782782782782450450782782...
-- 📫 How to reach me ...
-
-<!---
-Uniquin/Uniquin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# HI evervyone,Welcome to my Github profile
+Name:Apirach Khamyai 
+Nickname:Phet
